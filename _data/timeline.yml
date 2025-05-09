@@ -1,17 +1,11 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Bachelor’s Degree in Economics, University of Guanajuato, Mexico
   from: 2018
+  to: 2023
+  description: Completed comprehensive coursework in macroeconomics, microeconomics, and econometrics.
+Served as a research assistant on a project focused on micro, small, and medium-sized enterprises (MSMEs).
+Interned at the State Finance Secretariat, where I contributed to public expenditure analysis by managing databases and automating recurring reporting tasks.
+Later interned in the Data Analysis Department of the State Sports Commission, where I implemented cloud-based data management solutions and supported public relations with beneficiaries.
+- title: Data Science Co‑op Diploma, Cornerstone College of Canada, Vancouver, BC
+  from: 2024
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Pursuing a diploma program emphasizing Python, SQL, Tableau, Big Data and Machine Learning; engaged in real‑world data analysis and dashboard development through co‑op placements.
