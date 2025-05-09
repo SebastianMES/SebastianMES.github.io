@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Unemployment Analysis in Canada
+tools: [Python, Machine Learning, Unemployment]
+image: /images/Unemployment.jpg
+description: Develop an analysis on unemployment in Canada and the different factors that affect it. 
+external_url: https://github.com/SebastianMES/Final_Project_Unemployment
 ---
